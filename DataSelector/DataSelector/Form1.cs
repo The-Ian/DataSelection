@@ -7,6 +7,8 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using System.IO;
+using System.Data.SqlClient;
 
 namespace DataSelector
 {
@@ -26,14 +28,18 @@ namespace DataSelector
             if (comboBox1.SelectedItem.Equals("Veterinary"))
             {
                 VeterinaryDataSet Vets = new VeterinaryDataSet();
-                DataTable vetDT = new DataTable();
-                vetDT = Vets.Billing; 
+
+                SqlCommand work = new SqlCommand("select name from sys.tables");
+                SqlDataAdapter data = new SqlDataAdapter(work);
+                data.Fill(Vets,"name");
+                DataTable table = Vets.Tables[0];
+                
 
                 listBox1.Items.Clear();
                
                foreach(DataTable tables in Vets.Tables)
                 {
-                    listBox1.Items.Add(Vets);
+                    listBox1.Items.Add(table.TableName);
                 }
 
                 //listBox1.Items.Add(vetDT.Columns.ToString());

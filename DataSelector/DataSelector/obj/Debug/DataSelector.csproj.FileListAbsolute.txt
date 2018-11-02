@@ -9,3 +9,14 @@ C:\Users\Cyberadmin\Desktop\C# Stuff\DataSelector\DataSelector\obj\Debug\DataSel
 C:\Users\Cyberadmin\Desktop\C# Stuff\DataSelector\DataSelector\obj\Debug\DataSelector.csproj.CoreCompileInputs.cache
 C:\Users\Cyberadmin\Desktop\C# Stuff\DataSelector\DataSelector\obj\Debug\DataSelector.exe
 C:\Users\Cyberadmin\Desktop\C# Stuff\DataSelector\DataSelector\obj\Debug\DataSelector.pdb
+C:\Users\Cyberadmin\Desktop\C# Stuff\DataSelection\DataSelector\DataSelector\bin\Debug\DataSelector.exe.config
+C:\Users\Cyberadmin\Desktop\C# Stuff\DataSelection\DataSelector\DataSelector\bin\Debug\DataSelector.exe
+C:\Users\Cyberadmin\Desktop\C# Stuff\DataSelection\DataSelector\DataSelector\bin\Debug\DataSelector.pdb
+C:\Users\Cyberadmin\Desktop\C# Stuff\DataSelection\DataSelector\DataSelector\obj\Debug\DataSelector.csprojAssemblyReference.cache
+C:\Users\Cyberadmin\Desktop\C# Stuff\DataSelection\DataSelector\DataSelector\obj\Debug\DataSelector.Form1.resources
+C:\Users\Cyberadmin\Desktop\C# Stuff\DataSelection\DataSelector\DataSelector\obj\Debug\DataSelector.Properties.Resources.resources
+C:\Users\Cyberadmin\Desktop\C# Stuff\DataSelection\DataSelector\DataSelector\obj\Debug\DataSelector.TestForm.resources
+C:\Users\Cyberadmin\Desktop\C# Stuff\DataSelection\DataSelector\DataSelector\obj\Debug\DataSelector.csproj.GenerateResource.cache
+C:\Users\Cyberadmin\Desktop\C# Stuff\DataSelection\DataSelector\DataSelector\obj\Debug\DataSelector.csproj.CoreCompileInputs.cache
+C:\Users\Cyberadmin\Desktop\C# Stuff\DataSelection\DataSelector\DataSelector\obj\Debug\DataSelector.exe
+C:\Users\Cyberadmin\Desktop\C# Stuff\DataSelection\DataSelector\DataSelector\obj\Debug\DataSelector.pdb
